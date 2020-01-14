@@ -1,2 +1,1 @@
-# Appserver README.md
-git init
+Application android client-server
