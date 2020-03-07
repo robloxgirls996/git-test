@@ -1,0 +1,118 @@
+body {
+    background-attachment: fixed;
+  background-image: url('');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+.header {
+  
+    margin-bottom:1;
+    height:80%;
+    width:100%;
+    
+}
+.searchbar input[type="text"] {
+   background-position: Center;
+  font-size: 30px;
+ margin-top: 270px;
+    border-radius: 30px;
+  margin-left:30%;
+    padding: 3px;
+    width:40%;
+    background-color:white;
+    color:grey;
+}
+.button{
+   background-position: Center;
+  font-size: 33px;
+    padding: 9px;
+  margin-left:38%;
+
+}
+.buton{
+   background-position: Center;
+  font-size: -35px;
+    padding: -35px;
+  margin-left: 60%;
+ margin-top : -8%;
+}
+.img{
+background-position: center;
+  font-size: 40px;
+    padding: 30px;
+  margin-left:36%;
+  margin-right:29%;
+  margin-bottom:-21%;
+   margin-top : 1px;
+
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 300px;
+  background-size: 25px;
+
+
+}
+.buton{
+   background-position: Center;
+  font-size: -20px;
+    padding: -29px;
+  margin-left: 50%;
+ margin-top :   -2.5%;
+
+}
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  margin-left: 1000px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+a2:link, a2:visited {
+  background-color: white;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  margin-left: 1090px;
+  text-decoration: none;
+  display: inline-block;
+}
+a3:link, a3:visited {
+  background-color: #f44336;
+  color: white;
+  text-align: center; 
+  text-decoration: none;
+    margin-left: 300px;
+    margin-top: 10px;
+  display: inline-block;
+    padding: 114px 254px;
+
+}
+
+a3:hover, a3:active {
+  background-color: blue;
+  margin: 200px 3;
+ height: 22px;
+}
+h4{ 
+  display: block;
+  margin-top: -33px;
+  margin-bottom: 1em;
+  margin-left: 1200px;
+  margin-right: 0;
+  font-weight: bold;
+}
+.footer {
+   position: fixed;
+   left: 0px;
+   bottom: 0px;
+   width: 100%;
+   background-color: grey;
+   color: white;
+   text-align: left;
+  
+}
